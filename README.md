@@ -4,3 +4,4 @@
 
 ## adicionando mais um titulo secundario
 * comando git push
+* comando git pull
